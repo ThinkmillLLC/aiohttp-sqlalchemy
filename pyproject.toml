@@ -25,7 +25,7 @@ homepage = "https://github.com/ri-gilfanov/aiohttp-sqlalchemy"
 repository = "https://github.com/ri-gilfanov/aiohttp-sqlalchemy"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.7"
 aiohttp = "^3.7.4.post0"
 SQLAlchemy = "^1.4.17"
 
